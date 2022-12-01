@@ -120,7 +120,6 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
 ```sh
   cd my-folder
   git clone https://github.com/JansueT/Hello-microverse-project.git
